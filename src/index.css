@@ -1,0 +1,25 @@
+.root{
+    width: 90vw;
+    height:90vh;
+}
+.Chain_Master{
+    background: rgb(243, 243, 83);
+    
+}
+.Chain_Master2{
+    margin: 10px;
+    margin-top: 20px;
+}
+.Squares{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    border: 1px black solid;
+    border-radius: 5px;
+    margin-right: 5px;
+}
+.Chain_Master5{
+    margin-top: 20px;
+    background: rgb(127, 197, 255);
+    width: 90hv;
+}
